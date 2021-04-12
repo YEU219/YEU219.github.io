@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com</id>
     <title>Chenw&apos;s blog</title>
-    <updated>2021-04-12T11:15:39.718Z</updated>
+    <updated>2021-04-12T11:18:30.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com"/>
     <link rel="self" href="https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
     <icon>https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Chenw&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com/post/ce-shi/</id>
+        <link href="https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com/post/ce-shi/">
+        </link>
+        <updated>2021-04-12T11:13:40.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="test">TEst</h4>
+<hr>
+<pre><code class="language-python">print(&quot;hello word&quot;)
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://coding-pages-bucket-3549258-8622115-15945-568836-1301656977.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
